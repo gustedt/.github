@@ -64,11 +64,12 @@ The following books were authored by current members of the C Standards Committe
       <img src="https://github.com/user-attachments/assets/8fb00c0b-65fb-4d98-b5c5-c48a61e2b7b4" alt="drawing" height="100" />
     </td>
     <td>
-      Modern C<br>
+      Modern C, Third Edition<br>
+      Covers the C23 standard<br>
       by Jens Gustedt<br>
-      November 2019<br>
-      ISBN 9781617295812<br>
-      Available translations: Complex Chinese, Korean, Simplified Chinese
+      August 2025<br>
+      ISBN 9781633437777<br>
+      Available translations of previous edition: Complex Chinese, Korean, Simplified Chinese
     </td>
   </tr>
 </table>
